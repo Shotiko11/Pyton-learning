@@ -6,7 +6,8 @@
 print(5 + 10); `15`
 print(17 - 2); `17`
 print(17 * 2); `34`
-print(18 / 2); `9`
+print(17 / 2); `8.5`
+print(17 '//' 2); `8`
 ```
 
 ## 2) Normal Text
