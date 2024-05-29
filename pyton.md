@@ -9,4 +9,10 @@ print(17 * 2); `34`
 print(18 / 2); `9`
 ```
 
-## 2) 
+## 2) Normal Text
+
+```javascript
+print('What is your name?');
+name = input();
+print('Hi ' + name + '!') `Hi what is your name !`
+```
