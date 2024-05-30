@@ -1,6 +1,4 @@
-# Pyton Study
-
-# Website for pyton Harward CS50.dev
+# Pyton Study CS50.dev
 
 ## 1) + - * /
 
