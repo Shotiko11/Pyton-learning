@@ -1,10 +1,12 @@
 # Pyton Study ( CS50.dev )
 
-## 1) + - * /
+## 1) Print; Input
 
-```javascript
-print(5 + 10); `15`
-print(17 - 2); `17`
-print(17 * 2); `34`
-print(17 / 2); `8.5`
+```javascript 
+print("Hello World") 'დაპრინტავს ჰელოუ ვორლდს'
+
+
+print( input("What is your name")) `python test.py-ის დაწერის შემდეგ "ინფუთი" გამოვა რომელსაც პასუხად შოთას თუ დავუწერ დაპრინტავს შოთას`
 ```
+
+
