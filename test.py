@@ -1,5 +1,6 @@
-name = input("What is your name?")
-surname = input("what is your surname?")
-fullname = name + " " + surname
+num1 = int(input("first: "))
+num2 = int(input("second: "))
 
-print("Hello", fullname) 
+sum = num1 + num2
+
+print("your number is: " , sum)

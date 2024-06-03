@@ -30,3 +30,13 @@ fullname = name + " " + surname
 print("Hello", fullname)   `დაპრინტავს: hello name surname-ში რასაც ჩავწერთ
 2                                           
 ```
+
+## 1) ცვლადი / Variable
+```javascript
+num1 = int(input("first: "))
+num2 = int(input("second: "))
+
+sum = num1 + num2
+
+print("your number is: " , sum) `რიცხვად რომ აღიქვას პითონმა დაგვჭირდება Int ფუნქცია„
+```
