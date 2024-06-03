@@ -13,4 +13,10 @@ print( input("What is your name")) `python test.py-ის დაწერის 
 print("Hello", "Shota", "How are you today", sep="\n") `ეს სამივე პარამეტრს გამოპრინტავს ახალ აბზაცზე (sep="\n)`                                    
 ```
 
+## 1) ცვლადი / Variable
 
+```javascript 
+name = input("what is your name?")
+
+print("hello", name, "Today you are", name)
+```
