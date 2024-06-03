@@ -25,7 +25,8 @@ print("hello", name, "How are you today", name) `ჯერ გკითხავ
 2
 name = input("What is your name?")
 surname = input("what is your surname?")
+fullname = name + " " + surname
 
-print("Hello", name, surname)   `დაპრინტავს: hello name surname-ში რასაც ჩავწერთ
+print("Hello", fullname)   `დაპრინტავს: hello name surname-ში რასაც ჩავწერთ
 2                                           
 ```
