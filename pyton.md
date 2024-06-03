@@ -18,5 +18,6 @@ print("Hello", "Shota", "How are you today", sep="\n") `ეს სამივ�
 ```javascript 
 name = input("what is your name?")
 
-print("hello", name, "Today you are", name)
+print("hello", name, "How are you today", name) `ჯერ გკითხავს What is your name? და შოთას როჩავწერ, დაპრინტავს 
+                                                  hello shota How are you today shota`
 ```
