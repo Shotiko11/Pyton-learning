@@ -1,3 +1,4 @@
-name = input("what is your name?")
+name = input("What is your name?")
+surname = input("what is your surname?")
 
-print("hello", name, "Today you are", name)
+print("Hello", name, surname)

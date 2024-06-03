@@ -16,8 +16,16 @@ print("Hello", "Shota", "How are you today", sep="\n") `ეს სამივ�
 ## 1) ცვლადი / Variable
 
 ```javascript 
+1
 name = input("what is your name?")
-
 print("hello", name, "How are you today", name) `ჯერ გკითხავს What is your name? და შოთას როჩავწერ, დაპრინტავს 
                                                   hello shota How are you today shota`
+1
+
+2
+name = input("What is your name?")
+surname = input("what is your surname?")
+
+print("Hello", name, surname)       
+2                                           
 ```
