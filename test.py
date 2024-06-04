@@ -1,8 +1,10 @@
-num1 = int(input("first: "))
-num2 = int(input("second: "))
+score = int(input("Score: "))
 
-if num1 > num2 :
-    print("I is bigger")
+if score > 90 and score < 100 :
+    print("A")
 
-if num2 > num1 :
-    print("II is bigger")    
+
+score = int(input("Score: "))
+
+if score < 20 or score < 10 :
+    print("F")

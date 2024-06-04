@@ -53,3 +53,19 @@ if num1 > num2 :
 if num2 > num1 :
     print("II is bigger")    `რასაც ჩავწერ იმის მიხედვით გამოპრინტავს`
 ```
+
+## 5) AND / OR in Python
+
+```javascript
+score = int(input("Score: "))
+
+if score > 90 and score < 100 :
+    print("A") `and-ის შემთხვევაში უნდა აკმაყოფილებდეს ორივე პირობას`
+
+
+score = int(input("Score: "))
+
+if score < 20 or score < 10 :
+    print("F") `or-ის შემთხვევაში ერთ ერთს უნდა აკმაყოფილებდეს მეორე კიდია`
+```
+
