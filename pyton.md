@@ -13,7 +13,7 @@ print( input("What is your name")) `python test.py-ის დაწერის 
 print("Hello", "Shota", "How are you today", sep="\n") `ეს სამივე პარამეტრს გამოპრინტავს ახალ აბზაცზე (sep="\n)`                                    
 ```
 
-## 1) ცვლადი / Variable
+## 2) ცვლადი / Variable
 
 ```javascript 
 1
@@ -31,7 +31,7 @@ print("Hello", fullname)   `დაპრინტავს: hello name surname-�
 2                                           
 ```
 
-## 1) ცვლადი / Variable
+## 3) ცვლადი / Variable
 ```javascript
 num1 = int(input("first: "))
 num2 = int(input("second: "))
@@ -41,7 +41,7 @@ sum = num1 + num2
 print("your number is: " , sum) `რიცხვად რომ აღიქვას პითონმა დაგვჭირდება Int ფუნქცია„
 ```
 
-## 1) If Function
+## 4) If Function
 
 ```javascript
 num1 = int(input("first: "))
