@@ -1,6 +1,8 @@
 num1 = int(input("first: "))
 num2 = int(input("second: "))
 
-sum = num1 + num2
+if num1 > num2 :
+    print("I is bigger")
 
-print("your number is: " , sum)
+if num2 > num1 :
+    print("II is bigger")    

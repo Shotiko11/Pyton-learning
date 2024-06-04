@@ -40,3 +40,16 @@ sum = num1 + num2
 
 print("your number is: " , sum) `რიცხვად რომ აღიქვას პითონმა დაგვჭირდება Int ფუნქცია„
 ```
+
+## 1) If Function
+
+```javascript
+num1 = int(input("first: "))
+num2 = int(input("second: "))
+
+if num1 > num2 :
+    print("I is bigger")
+
+if num2 > num1 :
+    print("II is bigger")    `რასაც ჩავწერ იმის მიხედვით გამოპრინტავს`
+```
