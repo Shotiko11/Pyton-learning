@@ -71,6 +71,10 @@ if score < 20 or score < 10 :
 
 if score not 20 :
     print("F")
-
 ```
 
+## 5) Functions
+
+```javascript
+
+```
