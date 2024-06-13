@@ -1,4 +1,7 @@
-score = int(input("Score: "))
+def sumNum (x, y):
+    return x + y
 
-if not score = 10 :
-    print("It is not 10")
+
+result = sumNum(1,2)
+
+print(result)

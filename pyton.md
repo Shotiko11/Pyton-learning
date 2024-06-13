@@ -76,5 +76,10 @@ if score not 20 :
 ## 5) Functions
 
 ```javascript
+def sumNum (x, y):
+    return x + y
 
+result = sumNum(1,2)
+
+print(result) `ეს დაბეჭდავს 3-ს, რადგან ნშეკრებს 1-ს და 2-ს`
 ```
