@@ -76,10 +76,13 @@ if score not 20 :
 ## 5) Functions
 
 ```javascript
-def sumNum (x, y):
+def sumXY (x, y):
     return x + y
 
-result = sumNum(1,2)
+x = int(input("x: "))
+y = int(input("y: "))
 
-print(result) `ეს დაბეჭდავს 3-ს, რადგან ნშეკრებს 1-ს და 2-ს`
+result = sumXY(x,y)
+
+print(result) `ეს დაბეჭდავს რასაც ჩავწერთ იმ რიცხვების ჯამს`
 ```

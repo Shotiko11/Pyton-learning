@@ -1,7 +1,9 @@
-def sumNum (x, y):
+def sumXY (x, y):
     return x + y
 
+x = int(input("x: "))
+y = int(input("y: "))
 
-result = sumNum(1,2)
+result = sumXY(x,y)
 
 print(result)
