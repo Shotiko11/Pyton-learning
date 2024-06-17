@@ -1,9 +1,5 @@
-def sumXY (x, y):
-    return x + y
+counter = 3
 
-x = int(input("x: "))
-y = int(input("y: "))
-
-result = sumXY(x,y)
-
-print(result)
+while counter >= 0 :
+    print ("hello")
+    counter = counter - 1

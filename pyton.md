@@ -86,3 +86,13 @@ result = sumXY(x,y)
 
 print(result) `ეს დაბეჭდავს რასაც ჩავწერთ იმ რიცხვების ჯამს`
 ```
+
+## 5) ციკლები (FOR)
+
+```javascript
+counter = 3
+
+while counter >= 0 :
+    print ("hello")
+    counter = counter - 1 `სანამ ქაუნთერი 0ზე მეტი იქნება, ეს პირობა შესრულდება`
+```
