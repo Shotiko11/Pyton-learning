@@ -110,5 +110,5 @@ while True:
         continue                     `ეს continue ნიშნავს რომ ფუნქცია მაინც გაგრძელდეს თუ n ნაკლებია 0-ზე`
     else:
         print(n, " is positive")
-        break                        `ეს break იქნება ფუნქციის გაწყვეტა ყველა შემთხვევაში`
+        break                        `ეს break წყვიტავს ფუნქციას`
 ```
