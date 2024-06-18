@@ -1,2 +1,7 @@
-for i in range(3):
-    print("hello")
+while True:
+    n = int(input("score: "))
+    if n < 0 :
+        print(n, " is negative")
+    else:
+        print(n, " is positive")
+        break

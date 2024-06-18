@@ -100,3 +100,15 @@ while counter >= 0 :
 for i in range(3):
     print("hello")  `ესეც დაბეჭდავს 3-ჯერ, მაგრამ უფრო მარტივად:::::::::ანუ ეს range(3) იგივეა რაც [1, 2, 3]`
 ```
+
+## 5) While 
+```javascript
+while True:
+    n = int(input("score: "))
+    if n < 0 :
+        print(n, " is negative")  
+        continue                     `ეს continue ნიშნავს რომ ფუნქცია მაინც გაგრძელდეს თუ n ნაკლებია 0-ზე`
+    else:
+        print(n, " is positive")
+        break                        `ეს break იქნება ფუნქციის გაწყვეტა ყველა შემთხვევაში`
+```
