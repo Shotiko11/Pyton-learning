@@ -112,3 +112,16 @@ while True:
         print(n, " is positive")
         break                        `ეს break წყვიტავს ფუნქციას`
 ```
+
+
+## 6) LIST
+```javascript
+students = ['shota', 'irkali', 'elene']
+
+index = 0
+
+for student in students:
+    if(index % 2 == 0):
+        print(student)   `ეს დაბეჭდავს ერთის გამოტოვებით ზემოთ სტუდენტების სიიდან, რადგან 1-ით ახტება index-ით`
+    index += 1    
+```

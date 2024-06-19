@@ -1,10 +1,12 @@
-while True:
-    n = int(input("score: "))
-    if n < 0 :
-        print(n, " is negative")
-    else:
-        print(n, " is positive")
-        break
-    print("the end")    
+students = ['shota', 'irkali', 'elene']
+
+index = 0
+
+for student in students:
+    if(index % 2 == 0):
+        print(student)
+    index += 1    
+    
+
 
 
