@@ -125,3 +125,13 @@ for student in students:
         print(student)   `ეს დაბეჭდავს ერთის გამოტოვებით ზემოთ სტუდენტების სიიდან, რადგან 1-ით ახტება index-ით`
     index += 1    
 ```
+
+## 6) Exceptions in TRY
+
+```javascript
+try:
+    number = int(input("number is: "))
+    print(f"your number is {number}")
+except ValueError:
+    print("there is error") `except-ი გაეშვება მაშინ როდესაც ინფუთში რიცხვის მაგივრად ჩავწერთ ასოებს მაგალითად`
+```
